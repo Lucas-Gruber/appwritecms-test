@@ -1,6 +1,6 @@
 {
   "appwrite": {
-    "endpoint": "https://demo.firecave.de/v1",
+    "endpoint": "https://appwritecms-test.vercel.app/v1",
     "projectId": "appwriteBlog"
   },
   "theme": {
